@@ -1,17 +1,15 @@
-INDIGO_WELCOME_MESSAGE: "The place for all your online learning"
-INDIGO_PRIMARY_COLOR: "#3b85ff" # cool blue
+INDIGO_WELCOME_MESSAGE: "Apprentissage à distance des mathématiques"
+INDIGO_PRIMARY_COLOR: "##2c3e50" # secondary
 
 # Footer links are dictionaries with a "title" and "url"
 # To remove all links, write:
 # INDIGO_FOOTER_NAV_LINKS: []
 # INDIGO_FOOTER_LEGAL_LINKS: []
 INDIGO_FOOTER_NAV_LINKS:
-  - title: "About"
+  - title: "À propos"
     url: "/about"
   - title: "Contact"
     url: "/contact"
 INDIGO_FOOTER_LEGAL_LINKS:
-    - title: "Terms of service"
+    - title: "Mentions légales"
       url: "/tos"
-    - title: "Indigo theme for Open edX"
-      url: "https://github.com/overhangio/indigo"
