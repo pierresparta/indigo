@@ -1,5 +1,5 @@
 INDIGO_WELCOME_MESSAGE: "Apprentissage à distance des mathématiques"
-INDIGO_PRIMARY_COLOR: "##2c3e50" # secondary
+INDIGO_PRIMARY_COLOR: "#2c3e50" # secondary
 
 # Footer links are dictionaries with a "title" and "url"
 # To remove all links, write:
